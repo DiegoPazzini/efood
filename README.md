@@ -1,6 +1,13 @@
 <h1>Descrição do projeto:</h1>
-Projeto desenvolvido com React. Foi desenvolvida uma landing page com diversos restaurantes e opções de pratos prontos "efood". Clicando no botão "carrinho" o produto é inserido no carrinho de compras da página e os valores são somadas automaticamente, conforme mais produtos são acrescentados e assim que finalizado a compra o usuário é redirecionando para um campo de preenchimento de dados para entrega e pagamento. Na página home são apresentados todos os restaurantes e suas respectivas especialidades, cada restaurante possui sua página e seu respectivo cardápio. No rodapé da página estão disponíveis minhas redes sociais, clicando no respectivo ícone. Para esse projeto foi utilizado a biblioteca Redux de gerenciamento de estado para aplicativos JavaScript, sendo usado em conjunto com o React. React Testing Library também foi utilizado sendo uma biblioteca de testes para React que visa facilitar a escrita de testes de componentes de forma mais natural e eficiente.
+Estou muito empolgado em compartilhar o meu projeto final de front-end, foram 20 dias trabalhando nesse projeto, e foi um grande desafio! 💡
 
+Durante o curso de desenvolvimento fullstack da EBAC, perpassei por diversas tecnologias front-end, para no final integrar os principais conhecimentos em um único projeto: uma interface que reúne diversos restaurantes e diferentes pratos, com categorias, carrinho, página de checkout e finalização de pedido. O resultado é um projeto que me enche de orgulho. 💻
+
+Utilizei React Router Dom para a navegação, implementei esquemas de validação para o formulário com Yup, Formik e InputMask para garantir que os formulários funcionassem bem. E para manter tudo organizado e eficiente, contei com o Redux para gerenciar os estados globais. ✨
+
+E para finalizar adotei styled-components para o CSS, criando interfaces com eficiência e responsividade. E o coração do projeto? TypeScript com React.js, que me proporcionou um ambiente de desenvolvimento mais seguro e produtivo. 🎯
+
+Nesse processo, aprendi muito, superei desafios e, acima de tudo, me diverti explorando o mundo do front-end. Este projeto é o resultado de muito esforço e dedicação. 🙌
 <h2>
     Pré-visualização
  </h2>
